@@ -1,0 +1,14 @@
+C:\Users\HASEE\Desktop\c#\BBUDormitory\BBUDormitory\bin\Debug\BBUDormitory.exe.config
+C:\Users\HASEE\Desktop\c#\BBUDormitory\BBUDormitory\bin\Debug\BBUDormitory.exe
+C:\Users\HASEE\Desktop\c#\BBUDormitory\BBUDormitory\bin\Debug\BBUDormitory.pdb
+C:\Users\HASEE\Desktop\c#\BBUDormitory\BBUDormitory\obj\Debug\BBUDormitory.Login.resources
+C:\Users\HASEE\Desktop\c#\BBUDormitory\BBUDormitory\obj\Debug\BBUDormitory.Properties.Resources.resources
+C:\Users\HASEE\Desktop\c#\BBUDormitory\BBUDormitory\obj\Debug\BBUDormitory.Register.resources
+C:\Users\HASEE\Desktop\c#\BBUDormitory\BBUDormitory\obj\Debug\BBUDormitory.csproj.GenerateResource.Cache
+C:\Users\HASEE\Desktop\c#\BBUDormitory\BBUDormitory\obj\Debug\BBUDormitory.exe
+C:\Users\HASEE\Desktop\c#\BBUDormitory\BBUDormitory\obj\Debug\BBUDormitory.pdb
+C:\Users\HASEE\Desktop\c#\BBUDormitory\BBUDormitory\obj\Debug\BBUDormitory.FindPsd.resources
+C:\Users\HASEE\Desktop\c#\BBUDormitory\BBUDormitory\obj\Debug\BBUDormitory.Manager.resources
+C:\Users\HASEE\Desktop\c#\BBUDormitory\BBUDormitory\obj\Debug\BBUDormitory.Student.resources
+C:\Users\HASEE\Desktop\c#\BBUDormitory\BBUDormitory\obj\Debug\BBUDormitory.Alter.resources
+C:\Users\HASEE\Desktop\c#\BBUDormitory\BBUDormitory\obj\Debug\BBUDormitory.csprojResolveAssemblyReference.cache
